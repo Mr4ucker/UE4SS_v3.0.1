@@ -1,0 +1,31 @@
+# Add new items manually when the game updates, using the internal class name.
+# Format: InternalClassName_C = SlotCount
+
+
+# General Storage
+BP_BaseBuilding_Barrel_C            = 8
+BP_BaseBuilding_Crate_C             = 16
+BP_BaseBuilding_Chest_Small_C       = 32
+BP_BaseBuilding_Chest_C             = 48
+BP_BaseBuilding_Chest_Iron_C        = 64
+
+
+# Specialized Storage & Displays
+BP_BaseBuilding_LumberStorage_C     = 48
+BP_BaseBuilding_WeaponRack_C        = 6
+BP_BaseBuilding_ArmourMannequin_C   = 5
+BP_BaseBuilding_CapeHook_C          = 1
+BP_BaseBuilding_CapeRack_C          = 1
+
+
+# Personal Inventory
+BP_Components_PersonalInventory_C     = 80
+
+
+# Player Inventory: Currently uneditable (causes instant crashes).
+# Kept as a placeholder for potential future support if engine limits change.
+# BP_Components_Inventory_C         = 104 ?
+
+
+# Prints unconfigured chests
+LogUnconfigured = false

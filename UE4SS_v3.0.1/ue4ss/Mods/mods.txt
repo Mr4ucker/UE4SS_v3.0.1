@@ -1,0 +1,15 @@
+﻿CheatManagerEnablerMod : 1
+ConsoleCommandsMod : 1
+ConsoleEnablerMod : 1
+BPML_GenericFunctions : 1
+BPModLoaderMod : 1
+AdditionalStorageSlots : 1
+BetterRocksplosion : 1
+NoStructureDamage : 1
+WKDDroppedItemPurge : 1
+
+
+
+
+; Built-in keybinds, do not move up!
+Keybinds : 1
